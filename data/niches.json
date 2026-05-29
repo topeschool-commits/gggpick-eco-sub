@@ -1,22 +1,22 @@
 {
     "domain": "eco.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "다회용기",
+        "천연 세제",
+        "친환경 소품"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang eco items."
+        "다회용기": {
+            "topic": "Tumblers, reusable containers, silicone bags.",
+            "role": "Zero waste lifestyle guide."
         },
-        "수유/이유식": {
-            "topic": "eco bottle sterilizers, eco food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "천연 세제": {
+            "topic": "Eco-friendly detergents, soap nuts, baking soda.",
+            "role": "Natural cleaning expert."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "친환경 소품": {
+            "topic": "Bamboo toothbrushes, loofahs, solid soaps.",
+            "role": "Sustainable living curator."
         }
     }
 }
